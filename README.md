@@ -1,7 +1,7 @@
 # Sobre Mim
 Olá! Meu nome é Pablo Henrique. Sou estudante de Engenharia de Software, apaixonado por tecnologia e inovação. Tenho conhecimento em tecnologias essenciais para o desenvolvimento de aplicações e estou sempre buscando aprender mais.
 
-Atualmente, estou me especializando em .NET C# e, futuramente, pretendo explorar o mundo do Angular. Acredito que essa combinação de habilidades me permitirá criar soluções robustas e escaláveis para os desafios do mundo digital.
+Atualmente, estou me especializando em .NET C# e, futuramente, pretendo explorar o mundo do framework Angular. Acredito que essa combinação de habilidades me permitirá criar soluções robustas e escaláveis para os desafios do mundo digital.
 
 
 ## Conecte-se Comigo
