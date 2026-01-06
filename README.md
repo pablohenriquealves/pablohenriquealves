@@ -15,4 +15,4 @@ Atualmente, estou me especializando no desenvolvimento back-end utilizando o fra
 
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pablohenriquealves&theme=ocean-gradient&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pablohenriquealves)](https://git.io/streak-stats)
