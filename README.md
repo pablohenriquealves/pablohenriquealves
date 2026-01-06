@@ -15,4 +15,4 @@ Atualmente, estou me especializando no desenvolvimento back-end utilizando o fra
 
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=pablohenriquealves&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app/?user=pablohenriquealves&theme=violet-punch)](https://git.io/streak-stats)
