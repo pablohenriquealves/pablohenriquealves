@@ -1,5 +1,5 @@
 # Sobre Mim
-Olá! Sou Pablo Henrique, graduando em Engenharia de Software (6/8). Atuo como desenvolvedor Full-Stack com foco principalmente no ecossistema .NET (C#) e React, construindo aplicações modernas, escaláveis e de alta performance. Gosto de transitar por todo o ciclo do software, desde a estruturação de bancos de dados e APIs robustas no Back-end até a criação de interfaces dinâmicas no Front-end.
+Olá! Sou Pablo Henrique, graduando em Engenharia de Software (6/8). Atuo como desenvolvedor Full-Stack com foco principalmente no ecossistema React e Java, construindo aplicações modernas, escaláveis e de alta performance. Gosto de transitar por todo o ciclo do software, desde a estruturação de bancos de dados e APIs robustas no Back-end até a criação de interfaces dinâmicas no Front-end.
 
 
 ## Conecte-se Comigo
@@ -19,4 +19,4 @@ Olá! Sou Pablo Henrique, graduando em Engenharia de Software (6/8). Atuo como d
 
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.vercel.app/?user=pablohenriquealves&theme=violet-punch)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pablohenriquealves&theme=violet-punch)](https://git.io/streak-stats)
